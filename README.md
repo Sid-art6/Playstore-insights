@@ -50,9 +50,6 @@ Android Ver	                                                Minimum Android vers
 
 🔞 Content Ratings: 80% of apps are rated “Everyone”
 
-📌 How to Run
-# Clone the repo
-git clone https://github.com/your-username/google-playstore-analysis.git
 
 # Open the notebook
 GooglePlayStore.ipynb
